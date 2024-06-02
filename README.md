@@ -1,4 +1,4 @@
-# @kirama
+# @KiramaFr
 
 <div align="center">
 	<br />
