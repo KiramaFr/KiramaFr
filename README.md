@@ -1,5 +1,7 @@
 # @KiramaFr
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/746011493975195731)](https://discord.com/users/746011493975195731)
+
 <div align="center">
 	<br />
 	<p>
@@ -12,7 +14,7 @@
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
   <a href="https://egirl.ing/" >
-   <img src="https://lanyard.kyrie25.me/api/202740603790819328?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
+   <img src="https://lanyard.kyrie25.me/api/746011493975195731?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
   </a>
     <br>
   <p>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
