@@ -8,5 +8,8 @@
     <a href="https://discord.com/oauth2/authorize?client_id=1201258734161252475&permissions=1084480153670&scope=applications.commands%20bot">
       <img src="https://img.shields.io/badge/%E3%83%BBMei%232634-✔_APP-rgb(114,137,218)?logo=discord&logoColor=white" alt="Mei">
     </a>
+    <a href="https://discord.com/oauth2/authorize?client_id=1201258734161252475&permissions=1084480153670&scope=applications.commands%20bot">
+      <img src="https://img.shields.io/badge/%E3%83%BBOtaku_Haven-+1k_membres-rgb(114,137,218)?logo=discord&logoColor=white" alt="Mei">
+    </a>
   </div>
 </div>
