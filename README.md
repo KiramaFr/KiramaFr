@@ -1,6 +1,8 @@
 <div style="text-align: center;">
   <div style="display: inline-block; margin: 0 10px;">
-    <img src="https://lanyard.cnrad.dev/api/746011493975195731" alt="Discord Presence">
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
+      <img src="https://lanyard.cnrad.dev/api/746011493975195731" alt="Discord Presence">
+    </a>
   </div>
   <div style="display: inline-block; margin: 0 10px;">
     <a href="https://discord.com/oauth2/authorize?client_id=1201258734161252475&permissions=1084480153670&scope=applications.commands%20bot">
