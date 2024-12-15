@@ -21,11 +21,8 @@ Salut ! Je suis un développeur passionné par la technologie, spécialisé dans
 - **[Mei / Bot Discord](https://discord.com/oauth2/authorize?client_id=1201258734161252475&permissions=1084480153670&scope=applications.commands%20bot)** : Un bot d'interaction social pour animé vos serveur Discord.
 
 ## 📫 Les serveurs Discord que je travaille
-<a href="https://discord.gg/otaku-haven-1031958225798570016">
-  <img src="https://img.shields.io/badge/%E3%83%BBOtaku_Haven-Owner-rgb(114,137,218)?logo=discord&logoColor=white" alt="Otaku Haven" style="border-radius: 10px;">
-</a>
-<a href="https://discord.gg/ftHCfmvaw6">
-  <img src="https://img.shields.io/badge/%E3%83%BBMei_Support-Owner-rgb(114,137,218)?logo=discord&logoColor=white" alt="Mei Support" style="border-radius: 10px;">
+<a href="https://discord.gg/haven2022">
+  <img src="https://img.shields.io/badge/%E3%83%BBOtaku_Haven-Owner-rgb(114,137,218)?logo=discord&logoColor=white" alt="Haven" style="border-radius: 10px;">
 </a>
 <br>
 <a href="https://discord.gg/k2C2G4cguX">
