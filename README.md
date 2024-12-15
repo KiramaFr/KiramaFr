@@ -18,8 +18,7 @@ Salut ! Je suis un développeur passionné par la technologie, spécialisé dans
 ![GitHub](https://img.shields.io/badge/-・GitHub-181717?logo=github&logoColor=white)
 
 ## 🚀 Projets principaux
-- **[Bot Discord Mei](https://discord.com/oauth2/authorize?client_id=1201258734161252475&permissions=1084480153670&scope=applications.commands%20bot)** : Un bot d'interaction social pour animé vos serveur Discord.
-- **[Secret](https://www.youtube.com/watch?v=xvFZjo5PgG0)** : Secret
+- **[Mei / Bot Discord](https://discord.com/oauth2/authorize?client_id=1201258734161252475&permissions=1084480153670&scope=applications.commands%20bot)** : Un bot d'interaction social pour animé vos serveur Discord.
 
 ## 📫 Les serveurs Discord que je travaille
 <a href="https://discord.gg/otaku-haven-1031958225798570016">
